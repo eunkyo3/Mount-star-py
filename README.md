@@ -9,7 +9,7 @@
 # 높이를 입력받음
 x = int(input())
 
-# 귀찮네 나중에 함.
+# 앜 설명하기 귀찮 나중에 설명함.
 for i in range(x):
     for j in range(x-i-1):
         print(' ', end='')
