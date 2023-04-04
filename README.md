@@ -3,10 +3,13 @@
 # 입력
 5
 # 출력
-
+![image](https://user-images.githubusercontent.com/112944851/229813643-69ab6997-0810-41ff-8651-a637c00e31cc.png)
 # 나의 풀이
 ```python
+# 높이를 입력받음
 x = int(input())
+
+# 귀찮네 나중에 함.
 for i in range(x):
     for j in range(x-i-1):
         print(' ', end='')
